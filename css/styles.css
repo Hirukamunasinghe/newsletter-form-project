@@ -25,9 +25,14 @@ html,body{
     border-radius: 30px;
 }
 
+.heading-div{
+    margin-top: -10px;
+    padding-bottom: 10px;
+}
+
 .main-heading{
     margin-left: 60px;
-    margin-top: 60px;
+    margin-top: 50px;
     font-weight: bold;
     font-size: 2.7rem;
 }
