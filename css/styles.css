@@ -138,14 +138,12 @@ input{
         position: absolute;
         width: 400px;
         top:0;
-        left: 0;
         align-items: center;
         margin-top: -180px;
     }
 
     .image-content .main-image{
         width: 400px;
-        margin: auto;
     }
 
     .text-content{
