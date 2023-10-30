@@ -18,6 +18,7 @@ html,body{
 .main-card{
     display: grid;
     grid-template-columns: 1fr 1fr;
+    justify-content: space-between;
     background-color: white;
     width: 800px;
     height: 500px;
@@ -124,7 +125,6 @@ input{
 
     .main-card{
         display: flex;
-        justify-content: center;
         flex-direction: column;
         width: 400px;
         height: 880px;
@@ -135,6 +135,9 @@ input{
         position: absolute;
         top:0;
         width: 400px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 
     .image-content .main-image{
