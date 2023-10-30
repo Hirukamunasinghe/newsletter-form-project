@@ -1,9 +1,10 @@
-const form = document.addEventListener('form');
-const input = document.addEventListener('input');
-const span = document.addEventListener('.email-span');
+const form = document.querySelector('form');
+const btn = document.querySelector('.btn')
+const input = document.querySelector('input');
+const span = document.querySelector('.email-span');
 
 form.addEventListener('submit',()=>{
     window.location = 'endpage.html'
     const value = input.value;
-    span.textContent = value;
+    span.textContent = value
 })

@@ -111,5 +111,31 @@ input{
     
 }
 
+/* mobile responsive section */
+@media all and (max-width:1200px){
+    .main-card{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        width: 450px;
+        height: 880px;
+        border-radius: 0px;
+    }
+    
+    .image-content{
+        position: absolute;
+        top:0;
+    }
 
+    .image-content .main-image{
+        height: 600px;
+        margin-top: -180px;
+        width: 450px;
+    }
+
+    .text-content{
+        margin-top: 400px;
+    }
+
+}
 
