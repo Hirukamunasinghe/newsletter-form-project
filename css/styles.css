@@ -135,11 +135,13 @@ input{
     .image-content{
         position: absolute;
         top:0;
-        left: 0;
-        display: flex;
-        justify-content: center;
         align-items: center;
         margin-top: -180px;
+        width: 400px;
+    }
+
+    .image-content .main-image{
+        width: 400px;
     }
 
     .text-content{
