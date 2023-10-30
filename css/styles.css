@@ -133,6 +133,8 @@ input{
     }
     
     .image-content{
+        display: flex;
+        justify-content: center;
         position: absolute;
         top:0;
         left: 0;
@@ -142,8 +144,6 @@ input{
     }
 
     .image-content .main-image{
-        display: flex;
-        justify-content: center;
         width: 400px;
     }
 
