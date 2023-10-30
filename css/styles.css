@@ -134,6 +134,7 @@ input{
     .image-content{
         position: absolute;
         top:0;
+        left: 0;
         align-items: center;
         margin-top: -180px;
         width: 400px;
@@ -144,7 +145,7 @@ input{
     }
 
     .text-content{
-        margin-top: 250px;
+        margin-top: 350px;
         margin-right: 60px;
     }
 
