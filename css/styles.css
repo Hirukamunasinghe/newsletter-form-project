@@ -138,12 +138,12 @@ input{
         left: 0;
         align-items: center;
         margin-top: -180px;
-        display: flex;
-        justify-content: center;
         width: 400px;
     }
 
     .image-content .main-image{
+        display: flex;
+        justify-content: center;
         width: 400px;
     }
 
