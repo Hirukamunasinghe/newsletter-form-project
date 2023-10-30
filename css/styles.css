@@ -139,11 +139,13 @@ input{
         left: 0;
         align-items: center;
         margin-top: -180px;
-        width: 500px;
+        display: flex;
+        justify-content: center;
+        width: 100%;
     }
 
     .image-content .main-image{
-        width: 500px;
+        width: 100%;
     }
 
     .text-content{
