@@ -139,6 +139,7 @@ input{
         width: 400px;
         top:0;
         left:0;
+        right: 0;
         align-items: center;
         margin-top: -180px;
     }
