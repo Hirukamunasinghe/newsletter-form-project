@@ -113,11 +113,12 @@ input{
 
 /* mobile responsive section */
 @media all and (max-width:1200px){
+
     .main-card{
         display: flex;
         justify-content: center;
         flex-direction: column;
-        width: 450px;
+        width: 400px;
         height: 880px;
         border-radius: 0px;
     }
@@ -130,7 +131,7 @@ input{
     .image-content .main-image{
         height: 600px;
         margin-top: -180px;
-        width: 450px;
+        width: 400px;
     }
 
     .text-content{
