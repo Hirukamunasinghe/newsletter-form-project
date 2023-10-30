@@ -114,6 +114,14 @@ input{
 /* mobile responsive section */
 @media all and (max-width:1200px){
 
+    html,body{
+        overflow-x: hidden;
+    }
+
+    body{
+        position: relative;
+    }
+
     .main-card{
         display: flex;
         justify-content: center;
@@ -131,11 +139,19 @@ input{
     .image-content .main-image{
         height: 600px;
         margin-top: -180px;
-        width: 400px;
+        width: 380px;
     }
 
     .text-content{
         margin-top: 400px;
+    }
+
+    input{
+        width: 270px;
+    }
+
+    .btn{
+        width: 275px;
     }
 
 }
