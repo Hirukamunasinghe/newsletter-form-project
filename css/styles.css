@@ -126,7 +126,7 @@ input{
         display: flex;
         justify-content: center;
         flex-direction: column;
-        width: 500px;
+        width: 400px;
         height: 880px;
         border-radius: 0px;
     }
@@ -134,7 +134,7 @@ input{
     .image-content{
         position: absolute;
         top:0;
-        width: 500px;
+        width: 400px;
     }
 
     .image-content .main-image{
@@ -145,6 +145,7 @@ input{
 
     .text-content{
         margin-top: 400px;
+        margin-right: 60px;
     }
 
     input{
