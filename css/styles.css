@@ -141,11 +141,11 @@ input{
         margin-top: -180px;
         display: flex;
         justify-content: center;
-        width: 100%;
+        width: 600px;
     }
 
     .image-content .main-image{
-        width: 100%;
+        width: 600px;
     }
 
     .text-content{
