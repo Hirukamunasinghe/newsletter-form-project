@@ -126,11 +126,10 @@ input{
     .main-card{
         display: flex;
         flex-direction: column;
+        justify-content: center;
         width: 400px;
         height: 880px;
         border-radius: 0px;
-        display: flex;
-        justify-content: center;
     }
     
     .image-content{
@@ -141,11 +140,11 @@ input{
         margin-top: -180px;
         display: flex;
         justify-content: center;
-        width: 600px;
+        width: 400px;
     }
 
     .image-content .main-image{
-        width: 600px;
+        width: 400px;
     }
 
     .text-content{
