@@ -126,7 +126,6 @@ input{
     .main-card{
         display: flex;
         flex-direction: column;
-        justify-content: center;
         width: 400px;
         height: 880px;
         border-radius: 0px;
