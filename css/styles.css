@@ -145,6 +145,7 @@ input{
 
     .image-content .main-image{
         width: 400px;
+        margin: auto;
     }
 
     .text-content{
