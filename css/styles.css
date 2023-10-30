@@ -141,6 +141,10 @@ input{
         margin-top: -180px;
     }
 
+    .image-content .main-image{
+        width: 380px;
+    }
+
     .text-content{
         margin-top: 250px;
         margin-right: 60px;
